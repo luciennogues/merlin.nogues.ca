@@ -83,7 +83,7 @@ margin:0 auto 1em;
 width:100%;
 padding:0 0 0 1vw;
 }
-
+li {text-align:left;}
 .h-card {
 position: relative; /* pour que le lien se cale sur le li */
 display:block;
